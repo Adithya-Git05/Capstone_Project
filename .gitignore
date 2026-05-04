@@ -1,0 +1,59 @@
+# ============================================================================
+# BraTS 2024 Capstone Project - Git Ignore Rules
+# ============================================================================
+
+# LARGE DATASET FOLDERS (NEVER COMMIT)
+BraTS-2024-Complete/
+working_data/
+.cache/
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# VIRTUAL ENVIRONMENTS
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & EDITOR
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# JUPYTER NOTEBOOKS
+.ipynb_checkpoints/
+*.ipynb
+
+# LOGS & TEMPORARY FILES
+*.log
+*.tmp
+*.temp
+.pytest_cache/
+
+# OS
+Thumbs.db
+.DS_Store
