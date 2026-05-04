@@ -1,4 +1,9 @@
 nibabel>=5.0.0
 numpy>=1.24.0
 torch>=2.0.0
+<<<<<<< HEAD
 torchvision>=0.15.0
+=======
+scipy
+requests
+>>>>>>> 65b22b126e0b1cebf6cb8d0efeecf73eed541f9a
