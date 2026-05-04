@@ -9,7 +9,7 @@ working_data/
 checkpoints/
 *.zip*
 *.part*
-
+*.zip
 # PYTHON
 __pycache__/
 *.py[cod]
